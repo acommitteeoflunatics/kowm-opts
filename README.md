@@ -4,7 +4,7 @@ only X window manager that even I would take home to Mom. So kowm has decided
 that 'extensible simplicity' is the wave of the future; and we tend to agree.
 
 ## kowm-opts
-komw-opts ( :speaker: /kōm-äpts/ ) currently has six additional modular libraries planned. 
+kowm-opts ( :speaker: /kōm-äpts/ ) currently has six additional modular libraries planned. 
 These libraries - along with any others we think are needed - will provide 
 additional services that, while not absolutely necessary, would probably be 
 appreciated by the end user. These libraries will most likely be written in 
@@ -25,5 +25,5 @@ At present, the only requirements for kowm-opts is a properly configured kowm-co
 
 
 ============
-Copyright :copyright: 2009, 2010, 2011, 2012, 2013, Jerry W Jackson
+Copyright :copyright: 2009-2013, Jerry W Jackson
 All rights reserved.
